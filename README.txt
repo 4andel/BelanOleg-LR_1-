@@ -1,12 +1,11 @@
 Мій перший репозиторій
-echo "# BelanOleg-LR_1-" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/4andel/BelanOleg-LR_1-.git
-git push -u origin main
 
-git remote add origin https://github.com/4andel/BelanOleg-LR_1-.git
-git branch -M main
-git push -u origin main
+Git – розподілена система керування версіями написана мовою С, командна оболонка на UNIX, Perl, Tcl, Python та C++.
+Git має три основних стани, в яких можуть перебувати файли: збережений у коміті, змінений та індексований.
+Додає необхідний файл до репозиторію.
+Перевіряє чи додані файли.
+Коміт – фіксація стану сховища в певний момент часу, тобто фіксація змін.
+Ініціалізація Git у папці проекту.
+Це найкращий спосіб розповісти про контекст зроблених змін іншим розробникам.
+git log.
+Команда git checkout використовується для переключення гілок та отримання вмісту до вашої робочої директорії.
